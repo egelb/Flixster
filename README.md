@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<file:///Users/emilygelb/AndroidStudioProjects/Flixster/walkthrough.gif>
+<img src='http://i.imgur.com/file:///Users/emilygelb/AndroidStudioProjects/Flixster/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
